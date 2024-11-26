@@ -174,5 +174,3 @@ For more information, visit my website: [tadashijei.com](https://tadashijei.com)
 Follow me on GitHub: [@TadashiJei](https://github.com/TadashiJei)
 
 ---
-
-This documentation provides a comprehensive guide for your water management system project, including the hardware components, wiring configuration, functionalities, and usage instructions. Feel free to extend or modify the code as needed for your specific requirements!
